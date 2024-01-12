@@ -26,6 +26,8 @@ module 0x42::Generics {
         vec
     }
 
+// test code ..
+
    #[test]
 
     fun test_new_flexi() {
